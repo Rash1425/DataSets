@@ -8,7 +8,6 @@ Created on Sat Jul  3 22:33:22 2021
 #%%
 #Importing all the required libraries
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd 
 import pickle
 #%%
